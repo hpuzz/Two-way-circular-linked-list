@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Projiect\线性表合并\双向循环链表\双向循环链表\my_list.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“CircularList”的左侧
+E:\Projiect\线性表合并\双向循环链表\双向循环链表\main.c(21,17): warning C4013: “LengthList”未定义；假设外部返回 int
+  双向循环链表.vcxproj -> E:\Projiect\线性表合并\双向循环链表\x64\Debug\双向循环链表.exe
